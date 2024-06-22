@@ -32,6 +32,6 @@ class Car:
 
     def __addToGarage__(self):
         return str(self)
-    
+
     def __removeFromGarage__(self):
         return str(self)
